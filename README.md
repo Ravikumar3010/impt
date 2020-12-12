@@ -2,8 +2,7 @@ Step 1: Install Android Studio https://developer.android.com/studio/...
 
 Step 2: Install python if not installed (Anaconda: https://conda.io/docs/user-guide/inst...)
 
-Step 3: Install Tensorflow if not in your python package
-git clone https://github.com/tensorflow/tensorflow
+Step 3: download and Install Tensorflow from above code
 
 Step 4: Open Android Studio
   select Open an existing Android Studio project
